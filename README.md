@@ -1,9 +1,9 @@
-# 🍪 Cookie Clicker - GitHub Pages  
+# 🍪 Auto Clicker - GitHub Pages  
 
 Welcome to **[Cookie Clicker](https://au-to-clicker.github.io/)** – the ultimate destination for playing **Cookie Clicker** online for free! 🚀  
 
 ## 🎮 About the Game  
-In **Cookie Clicker** you will find an addictive casual **incremental game** that lets you produce cookies through endless clicks on a massive cookie. The objective is to disseminate cookies while obtaining upgrades and technology to achieve maximum **cookie business success** status. 🍪🔥  
+In **Auto Clicker** you will find an addictive casual **incremental game** that lets you produce cookies through endless clicks on a massive cookie. The objective is to disseminate cookies while obtaining upgrades and technology to achieve maximum **cookie business success** status. 🍪🔥  
 
 ## 🌟 Features  
 ✅ The core gameplay in Classic Cookie Clicker includes basic clicking mechanics and gradual automation system.  
@@ -18,7 +18,7 @@ In **Cookie Clicker** you will find an addictive casual **incremental game** tha
 4️⃣ The growth of your cookie empire begins when you continue clicking on the interface. 
 
 # 🚀 Live Demo
-👉 Play Now: **[cookieclicke-r.github.io](https://au-to-clicker.github.io/)**
+👉 Play Now: **[Auto Clicker](https://au-to-clicker.github.io/)**
 👉 Play Now: **[Doodle Cricket](https://doodlecricket.org)**
 
 # 📜 License
@@ -27,8 +27,8 @@ The project exists solely for educational and entertainment aims. Other parties 
 # 📬 Contact & Support
 Have questions, feedback, or suggestions? Reach out to us!
 
-📧 Email: [Insert Your Contact Email]
-🌍 Website: cookieclicke-r.github.io
+📧 Email: [contactmu97@gmail.com]
+🌍 Website: https://au-to-clicker.github.io
 
 ## 📂 Project Structure  
 ```bash
