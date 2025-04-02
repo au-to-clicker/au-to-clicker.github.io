@@ -1,1 +1,0 @@
-No Content: https://cookieclicker.org/steam/steam.js
